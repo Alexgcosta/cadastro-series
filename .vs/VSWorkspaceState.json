@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\bin\\Release",
+    "\\bin\\Release\\netcoreapp3.1",
+    "\\classes",
+    "\\Enum",
+    "\\intefaces",
+    "\\obj",
+    "\\obj\\Release",
+    "\\obj\\Release\\netcoreapp3.1"
+  ],
+  "SelectedNode": "\\README.txt",
+  "PreviewInSolutionExplorer": false
+}
