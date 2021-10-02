@@ -1,3 +1,4 @@
+using Dio.Series;
 using System;
 
 namespace Dio.Series

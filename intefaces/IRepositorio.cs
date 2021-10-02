@@ -1,10 +1,11 @@
+
 using System.Collections.Generic;
 
 namespace Dio.series.intefaces
 {
-    public interface IRepositorio
+    public interface IRepositorio<T>
     {
-         List<T> Lista();
+        List<T> Lista();
         T RetornaPorId(int id);        
         void Insere(T entidade);        
         void Exclui(int id);        

@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using Dio.Series;
 using Dio.series.Interfaces;   
 
 namespace Dio.series

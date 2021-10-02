@@ -1,0 +1,4 @@
+C:\Desenvolvimento\Dio.series\obj\Release\netcoreapp3.1\Dio.series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\Dio.series\obj\Release\netcoreapp3.1\Dio.series.AssemblyInfoInputs.cache
+C:\Desenvolvimento\Dio.series\obj\Release\netcoreapp3.1\Dio.series.AssemblyInfo.cs
+C:\Desenvolvimento\Dio.series\obj\Release\netcoreapp3.1\Dio.series.csproj.CoreCompileInputs.cache
